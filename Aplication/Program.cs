@@ -12,7 +12,9 @@ namespace Aplication
     {
         static void Main(string[] args)
         {
-
+            //test to github
+            Console.WriteLine("test my Github");
+            Console.ReadKey();
         }
     }
 }
